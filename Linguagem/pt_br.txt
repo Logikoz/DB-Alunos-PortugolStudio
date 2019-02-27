@@ -1,0 +1,1 @@
+Menu_Inicio = 'Ola mundo'

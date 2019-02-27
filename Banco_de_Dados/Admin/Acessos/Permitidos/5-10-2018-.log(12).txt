@@ -1,0 +1,5 @@
+Tipo: Permitido
+Nome do Usuario: Ruan Carlos
+Diretorio do Usuario: C:\Users\Logikoz
+Data: 5/10/2018
+Horario 16:0:10:714

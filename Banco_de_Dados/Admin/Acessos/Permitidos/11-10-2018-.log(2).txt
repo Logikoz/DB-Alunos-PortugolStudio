@@ -1,0 +1,5 @@
+Tipo: Permitido
+Nome do Usuario: Joao Pedro
+Diretorio do Usuario: C:\Users\Logikoz
+Data: 11/10/2018
+Horario 14:50:25:333
