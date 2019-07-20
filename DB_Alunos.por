@@ -16,7 +16,7 @@ programa
 	inclua biblioteca Mouse --> m
 	inclua biblioteca Teclado --> te
 
-	//VARIAVEIS GLOBAIS
+	//CAMPOS GLOBAIS
 	//======================================
 
 	inteiro Confirm = 0
